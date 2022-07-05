@@ -20,8 +20,8 @@
 > exclusão, lista, pesquisa e alteração de Clientes, seguindo a seguinte
 > modelagem:
 
-![](./images/media/image1.png){width="4.44536198600175in"
-height="2.751890857392826in"}\
+![](./images/media/image1.png)
+
 **Modelagem Desafio Spring Boot**
 
 **É necessário a utilização dos seguintes itens:**
